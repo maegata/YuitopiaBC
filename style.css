@@ -9,7 +9,7 @@
 .headerphoto {
   width:150px;
 }
-.headerphoto {
-  width: 50%;
+.headerphoto img {
+  width: 100px;
   height: auto;
 }
