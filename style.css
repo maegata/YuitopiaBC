@@ -13,3 +13,6 @@
   width: 100%;
   height: auto;
 }
+body {
+  background-image: url("photofolder/p3.png");
+}
