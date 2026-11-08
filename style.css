@@ -1,9 +1,9 @@
 #topphoto {
-  width: 500px;   
+  width: px;   
 }
 
 #topphoto img {
-  width: 90%;    
+  width: 100%;    
   height: auto;
 }
 .headerphoto {
