@@ -35,3 +35,19 @@ img {
   background-color: rgb(175, 238, 238);
   line-height: 30px;
 }
+.button {
+  font-size: 1.3em;
+  display: block;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  color: rgb(0, 0, 0);
+  margin: 0px 0px 5px;
+  text-align: center;
+  text-decoration: none;
+  box-sizing: border-box;
+  background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255), rgb(8, 158, 0));
+  border: 1px solid rgb(8, 158, 0);
+  font-family: "   C   I", Meiryo;
+  font-weight: bold;
+}
