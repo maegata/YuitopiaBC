@@ -50,8 +50,3 @@ img {
   font-family: "   C   I", Meiryo;
   font-weight: bold;
 }
-#topphoto {
-  display: block;
-  margin: 10px auto 15px;
-  border: 5px ridge rgb(216, 216, 216);
-}
