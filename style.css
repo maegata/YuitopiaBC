@@ -46,7 +46,7 @@ img {
   text-align: center;
   text-decoration: none;
   box-sizing: border-box;
-  background: linear-gradient(rgb(0, 200, 255));
+  background: (rgb(0, 200, 255));
   font-family: "   C   I", Meiryo;
   font-weight: bold;
 }
