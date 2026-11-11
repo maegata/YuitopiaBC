@@ -56,6 +56,9 @@ img {
 .inlineframe {
     width: 700px;
     max-width: 100%;
+    height: 200px;
+    overflow: hidden scroll;
+    border: 2px inset rgb(216, 216, 216);
     margin: 0 auto;
 }
 
@@ -66,15 +69,47 @@ img {
 
 .table-top {
     width: 100%;
+    height: 40px;
+    background-color: rgb(100, 149, 237);
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    padding-left: 3px;
 }
 
 .table-top-date,
 .table-date {
     width: 20%;
+    background-color: rgb(211, 211, 211);
+    text-align: left;
+    font-size: small;
+    color: red;
+    font-weight: bold;
+    padding-left: 3px;
+}
+.table-date {
+    color: inherit;
 }
 
 .table-top-contents,
 .table-top-contents2,
 .table-contents {
     width: 80%;
+    height: 20px;
+    text-align: left;
+    font-size: small;
+    font-weight: bold;
+    padding-left: 3px;
+}
+
+.table-top-contents {
+    background-color: rgb(220, 220, 220);
+}
+
+.table-top-contents2 {
+    background-color: rgb(243, 247, 129);
+}
+
+.table-contents {
+    background-color: transparent;
 }
