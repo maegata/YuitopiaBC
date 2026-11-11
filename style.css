@@ -53,3 +53,59 @@ img {
   border-top: 1px solid rgb(255, 100, 150);
   border-bottom: 1px solid rgb(255, 100, 150);
 }
+.table-top {
+  width: 590px;
+  height: 40px;
+  background-color: rgb(100, 149, 237);
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  padding-left: 3px;
+}
+
+.table-top-date {
+  width: 100px;
+  background-color: rgb(211, 211, 211);
+  text-align: left;
+  font-size: small;
+  color: red;
+  font-weight: bold;
+  padding-left: 3px;
+}
+
+.table-top-contents {
+  width: 490px;
+  height: 20px;
+  background-color: rgb(220, 220, 220);
+  text-align: left;
+  font-size: small;
+  font-weight: bold;
+  padding-left: 3px;
+}
+
+.table-top-contents2 {
+  width: 490px;
+  height: 20px;
+  background-color: rgb(243, 247, 129);
+  text-align: left;
+  font-size: small;
+  font-weight: bold;
+  padding-left: 3px;
+}
+
+.table-date {
+  width: 100px;
+  background-color: rgb(211, 211, 211);
+  text-align: left;
+  font-size: small;
+  font-weight: bold;
+  padding-left: 3px;
+}
+
+.table-contents {
+  width: 490px;
+  height: 20px;
+  text-align: left;
+  font-size: small;
+  padding-left: 3px;
+}
